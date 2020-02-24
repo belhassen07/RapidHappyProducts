@@ -1,4 +1,4 @@
-# RapidHappyProducts
+# Rapid Happy Products
 
 This a minimal collection of links oriented to people who want to design and build products in a rapid and pleasurable way.
 This list is not intended to be a large list of links but rather an opinionated collection with tools I've used and enjoyed using. 
