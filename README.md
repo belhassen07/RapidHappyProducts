@@ -18,7 +18,7 @@ This list is not intended to be a large list of links but rather an opinionated 
 - [Postman](https://www.postman.com/): This is kind of the standard when testing APIs.
 - [VSCode](https://code.visualstudio.com/): It's a very powerful code editor that I'm still trying to benefit more from it
 - [Tailwindcss](https://tailwindcss.com/): I've experimented with this CSS utility library and it rocks 🤘
-- [Django](https://www.djangoproject.com/) / [Django REST Framework](https://www.django-rest-framework.org/)
+- [Django](https://www.djangoproject.com/) / [Django REST Framework](https://www.django-rest-framework.org/): A great reliable framework with a pleasurable developer experience. Django REST Framework is a great tool when creating a SPA(for me when doing React)
 
 ### Productivity online
 - [Motion](https://www.inmotion.app/): This Chrome extension keeps you from distracting websites. I tried a lot of these and what it stands out about this is that it actually works !
