@@ -4,7 +4,7 @@ This a minimal collection of links oriented to people who want to design and bui
 This list is not intended to be a large list of links but rather an opinionated collection with tools I've used and enjoyed using. 
 
 ### Project management
-[Basecamp Personal](https://basecamp.com/personal)
+- [Basecamp Personal](https://basecamp.com/personal)
 
 ### Documentation 
 - [gitbook](http://gitbook.com/): used for creating books or documentations online. It produces elegant book design and has an enjoyable writing experience with large options to use as elements
